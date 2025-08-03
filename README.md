@@ -19,17 +19,6 @@ A full-stack **Online Food Ordering System** built using **PHP**, **MySQL**, **H
 
 ---
 
-## 🧠 Table of Contents
-
-- [System Description and Functions](#system-description-and-functions)
-- [Built With](#built-with)
-- [Installation](#installation)
-- [Screenshots](#screenshots)
-- [Author](#author)
-- [Project Links](#project-links)
-
----
-
 ## 📋 System Description and Functions
 
 There are two roles in the system: **Admin** and **User**.
