@@ -7,14 +7,11 @@ A full-stack **Online Food Ordering System** built using **PHP**, **MySQL**, **H
 ## 📊 Badges
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub issues](https://img.shields.io/github/issues/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub language count](https://img.shields.io/github/languages/count/Rohitlakha/Online-Food-Ordering-Web-App-master)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/Rohitlakha/Online-Food-Ordering-Web-App-master)
 ![GitHub forks](https://img.shields.io/github/forks/Rohitlakha/Online-Food-Ordering-Web-App-master?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Rohitlakha/Online-Food-Ordering-Web-App-master?style=social)
@@ -96,7 +93,6 @@ food
 ## 👤 Author
 
 **Rohit Lakha**  
-📧 **Email:** [rohitlakha360@gmail.com](mailto:rohitlakha360@gmail.com)  
 🔗 **GitHub:** [@Rohitlakha](https://github.com/Rohitlakha)  
 🎓 **MCA Student** | Passionate about Web Development & Data Analytics
 
