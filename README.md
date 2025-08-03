@@ -71,14 +71,7 @@ food
 5. Import the `food.sql` file from the root directory
 6. Open your browser and navigate to:
 
-
 ---
-
-## 📷 Screenshots
-
-![Homepage](screenshots/homepage.png)
-![Cart](screenshots/cart.png)
-
 ## 👤 Author
 
 **Rohit Lakha**  
