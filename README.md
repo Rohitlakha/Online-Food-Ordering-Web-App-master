@@ -86,11 +86,6 @@ You can view the original repository here: [Online-Food-Ordering-Web-App](https:
 This is a **modified or reused version** for **educational and learning purposes** under the terms of the **MIT License**.
 
 
-### ✅ What This Does:
-- Gives full credit to the original author.
-- Clearly states your contributions or use.
-- Avoids any license or plagiarism issues.
 
-Let me know if you want to add a fork notice or any customizations!
 
 
