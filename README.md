@@ -36,3 +36,16 @@ This is a full-stack **Online Food Ordering System** built using **PHP**, **MySQ
 
 ```bash
 git clone https://github.com/Rohitlakha/Online-Food-Ordering-Web-App-master
+
+1. Place the folder in your web server directory (htdocs for XAMPP).
+
+2. Start Apache and MySQL from your control panel.
+
+3. Open phpMyAdmin, create a database named food.
+
+4. Import the food.sql file located in the root directory.
+
+5. Open your browser and navigate to:
+```bash
+http://localhost/Online-Food-Ordering-Web-App-master/
+
